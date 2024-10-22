@@ -13,6 +13,6 @@ https://github.com/JvZabala/Atividade03_MaispraTI
   
 ## Instruções de Execução:
 
-Abra o projeto no VSCode.
-Abra o arquivo index.html.
-Clique no botão escreto Shoe Preview no canto superior direito do editor.
+* Abra o projeto no VSCode.
+* Abra o arquivo index.html.
+* Clique com o botão direito no arquivo html, e depois clique com o esquerdo em Show Preview no canto superior direito do editor.
