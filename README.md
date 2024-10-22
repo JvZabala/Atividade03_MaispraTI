@@ -1,4 +1,4 @@
-## Atividade03_MaispraTI ## Site Cime
+## Atividade03_MaispraTI Site Cime
 
 Repositório com os códigos da Atividade03 
 
@@ -15,4 +15,4 @@ https://github.com/JvZabala/Atividade03_MaispraTI
 
 * Abra o projeto no VSCode.
 * Abra o arquivo index.html.
-* Clique com o botão direito no arquivo html, e depois clique com o esquerdo em Show Preview no canto superior direito do editor.
+* Clique com o botão direito no arquivo sitecime.html, e depois clique com o esquerdo em Show Preview no canto superior direito do editor.
