@@ -8,7 +8,7 @@ https://github.com/JvZabala/Atividade03_MaispraTI
 ```
 ## Pré-Requisitos Básicos
 
-* (VSCode) instalado ou outra plataforma semelhante (neste caso VSCodium).
+* (VSCode) instalado ou outra plataforma semelhante.
 * Node.js instalado.
   
 ## Instruções de Execução:
